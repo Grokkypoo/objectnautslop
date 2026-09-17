@@ -1,0 +1,35 @@
+{
+  "mode": "sample",
+  "clean_dir": "/workspace/assets/sprites/video2dsprite/lion-walk/frames-clean",
+  "total_clean": 73,
+  "sets": [
+    {
+      "count": 8,
+      "tag": "",
+      "sprites": [
+        "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/sprite_01.png",
+        "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/sprite_02.png",
+        "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/sprite_03.png",
+        "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/sprite_04.png",
+        "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/sprite_05.png",
+        "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/sprite_06.png",
+        "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/sprite_07.png",
+        "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/sprite_08.png"
+      ],
+      "strip": "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/run-strip-8.png",
+      "grid": "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/run-grid-8.png",
+      "gif": "/workspace/assets/sprites/video2dsprite/lion-walk/sprite/run-preview-8.gif",
+      "gif_ms": 80,
+      "indices": [
+        0,
+        10,
+        21,
+        31,
+        41,
+        51,
+        62,
+        72
+      ]
+    }
+  ]
+}
